@@ -8,3 +8,8 @@ dist
 data
 openfold/resources/
 tests/test_data/
+.idea/vcs.xml
+.idea/openfold.iml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/deployment.xml
